@@ -15,7 +15,7 @@ A Python-based automation tool designed to streamline the process of flashing St
 
 ## 📖 How to Use
 1. Clone this repository:
-   `git clone https://github.com/VinicinU235/Automatic-Flashing-Motorola-ROM.git`
+   `git clone https://github.com/VinisseteU235/Automatic-Motorola-ROM-Flasher.git`
 2. Place your ROM files in the designated folder.
 3. Run the script:
    `python flash_script.py`
