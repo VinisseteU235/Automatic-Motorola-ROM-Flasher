@@ -29,7 +29,7 @@ def run():
             subprocess.run(cmd)
             
     except Exception as e:
-        print(f"Erro: {e}")
+        print(f"Error: {e}")
 
 if __name__ == "__main__":
     run()
