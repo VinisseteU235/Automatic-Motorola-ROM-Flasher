@@ -25,7 +25,7 @@ def run():
             else:
                 continue
                 
-            print(f"Executando: {' '.join(cmd)}")
+            print(f"Executing: {' '.join(cmd)}")
             subprocess.run(cmd)
             
     except Exception as e:
